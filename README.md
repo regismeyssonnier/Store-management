@@ -2,7 +2,7 @@
 
 ## 1. Site store management
 
-It manage the product of an administration. 🇫🇷
+It manages the storage of an administration. 🇫🇷
 
 ## 2. Installation
 
