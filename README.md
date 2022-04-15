@@ -9,3 +9,7 @@ It manages the storage of an administration. 🇫🇷
 Install the db file, after decompress EXTjs.zip in the same folder
 
 to use the javascript library. 🥇
+
+## 3. How to use it ?
+
+Download the **guide_utilisateur.doc** file to know how to use it.
